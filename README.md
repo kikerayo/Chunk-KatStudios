@@ -9,6 +9,10 @@ Juego indie de bloques creado por **KatStudios**. Nuestro objetivo: escuchar a l
 
 Extrae el ZIP y abre `Chunk_Publica/Chunk_Publica.exe`. Chunk consulta este repositorio, verifica SHA-256 y prepara las actualizaciones en segundo plano. Las aplica al cerrar, conservando mundos, configuración, personalización y mods. Puedes desactivarlas en **Actualizaciones** dentro del menú principal. La primera instalación de una versión antigua requiere instalar la build con actualizador una vez.
 
+## Chunk 1.0.3
+
+Cultivos nuevos, puestos de aldeanos, logros, escenas del Aether y una dimensión secreta. Resource packs Java experimentales para texturas PNG; no incluye intérprete de modelos JSON, shaders ni sonidos personalizados. [Guía de novedades y límites](docs/Chunk-1.0.3.md).
+
 ## Publicar una actualización
 
 1. Cambia `VERSION` y/o aumenta `BUILD` en `chunk_updates.py` antes de compilar. La compilación debe crecer también en hotfixes que mantengan la misma versión visible.
