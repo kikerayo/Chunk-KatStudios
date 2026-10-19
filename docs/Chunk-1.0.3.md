@@ -1,3 +1,20 @@
+# Chunk 1.0.3 — Crónicas de los Siete (build 2026101903)
+
+- Historia completa del bibliotecario y Pausa > Historia: origen del Player, nombres de los siete, reglas alteradas, Infernales, oscuros, confianza y dimensión de papa.
+- Después de vencer al dragón, clic derecho en el bloque azul de Comunicación bajo un templo del Aether > Desafiar a los Siete Estelares. Siete fases consecutivas: Jared, Craf, Joky, Doshhy, Pluto, Helso y Transto. Sus cuerpos toman tu skin morada. Esquiva el círculo rojo anunciado; solo reciben golpes y flechas cuando se acuestan. Salir del área o morir pausa el combate; guarda la vida/fase y continúa al volver. No destruye construcciones.
+- Ayuda infernal: clic derecho con mano vacía a un oscuro y entrega 3 lingotes de hierro + 2 chuletas cocinadas en tres días diferentes. Estas tareas de abastecimiento son la forma jugable de ayudar a los refugios, no un tributo de los dioses. Ya aliados, los oscuros se apartan por tu olor y ocasionalmente regalan comida o minerales.
+- Los oscuros llevan un bloque rojo visible en el pecho. Sobreviven a las caídas del Aether y regresan al refugio; el rayo infernal afecta a los Templarios claros.
+- Tras ganar, los claros tiemblan; después de tres días se calman gradualmente y a los seis confían en ti. Buscan recursos naturales cercanos o cultivos maduros, los recogen para ti y esperan si tu inventario está lleno. Puedes encargar un casco con cinco lingotes: lo fabrican y entregan tras 45 segundos. No extraen bloques colocados por el jugador. Trabajan en zonas cargadas; no simulan tareas fuera de ellas.
+- Tras ganar, habla con mano vacía con un oscuro: puedes dejarlo con los Infernales o curarlo con manzana dorada normal + lágrima de Ghast. La cura quita su bloque rojo. La decisión de dejarlo protegido permite volver a curarlo después.
+- Relación opcional: después de seis días de confianza, habla con mano vacía con el mismo guardián en tres días diferentes y acepta ser pareja. Personaje hombre: Templaria; personaje mujer: Templario. Abrazo/beso con gesto y corazón. No se fuerza una relación al ganar.
+- Campaña, salud de la fase, amistad, encargos, curas y relación persisten al guardar, cargar y cambiar de dimensión. LAN: decisiones y conversaciones de campaña en la PC anfitriona; invitados ven las fases y participan en la batalla con daño validado por el anfitrión. Ambos equipos deben actualizar.
+- Se conservan las texturas existentes, inventarios, mundo y mecánicas independientes, incluido B frente a la invocación por estatua. No hay modelos ni assets externos nuevos: los cuerpos usan skins locales; los indicadores se dibujan en el juego.
+
+Las donaciones, receta de cura, duración de confianza y detalles del combate son una adaptación jugable del lore de Oliver. Los Infernales son amigables y no exigen servidumbre. El bloque rojo es soporte vital; el azul transmite profecías Estelares.
+
+
+---
+
 # Corrección visual 1.0.3 · build 2026101902
 
 Botones con colores y bordes propios de Minecraft en todos los paneles, independientes del tema del escritorio. Paleta explícita y estilo Fusion; pestañas, listas, campos y botones predeterminados conservan el contraste. Debug dibuja tierra también dentro de las páginas desplazables. Se evita que el selector genérico QWidget imponga fondo transparente a los botones. Verificado nativamente con esquemas claro y oscuro y con los botones del menú principal y de los diálogos.
