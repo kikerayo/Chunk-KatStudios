@@ -1,3 +1,10 @@
+# Corrección visual 1.0.3 · build 2026101902
+
+Botones con colores y bordes propios de Minecraft en todos los paneles, independientes del tema del escritorio. Paleta explícita y estilo Fusion; pestañas, listas, campos y botones predeterminados conservan el contraste. Debug dibuja tierra también dentro de las páginas desplazables. Se evita que el selector genérico QWidget imponga fondo transparente a los botones. Verificado nativamente con esquemas claro y oscuro y con los botones del menú principal y de los diálogos.
+
+
+---
+
 # Chunk 1.0.3 — Cultivos, oficios y caos en el Aether
 
 - Semillas de calabaza y sandía, patatas, frutos y patatas asadas. Plantación, ocho etapas, agua, iluminación, polvo de hueso, recetas y cosecha. Los tallos producen frutos en terreno libre adyacente; no crean dos frutos mientras el anterior siga junto al tallo. Semillas en hierba, granjeros y cofres de aldeas nuevas.
