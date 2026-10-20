@@ -1,3 +1,19 @@
+# Chunk 1.0.3 — Ancient City y canción del Sift (build 2026102002)
+
+- Generación nueva inspirada en Caves & Cliffs: cavernas amplias, pizarra profunda, zonas de musgo, espeleotemas, redstone y montañas más pronunciadas. Se conserva el límite de 128 bloques de Chunk; no es la actualización completa ni el generador exacto de Minecraft. Solo mundos nuevos usan esta generación. Los mundos antiguos conservan su generador, incluso al cambiar de dimensión o conectarse por LAN.
+- Ancient City propia de Chunk: cámara subterránea con paredes, suelo continuo, cimientos, techo, caminos, ruinas, sculk, sensores, chilladores y gran marco de pizarra reforzada. También aparece en mundos anteriores, solo con Generar estructuras activado y si toda la cámara queda cubierta y libre de ediciones del jugador, incluido aire minado. No excava ni coloca bloques sobre tus construcciones.
+- Privada: F3 > Mundo > TP Ancient City. El cofre central contiene un cuerno de cabra, ocho bloques musicales y suministros. Las ciudades aparecen por regiones de 512 bloques, cuando el terreno puede cubrirlas sin abrir la superficie. Coordenadas verticales adaptadas a Chunk.
+- Ritual del video de Oliver: usa el cuerno cerca del gran marco; coloca un noteblock sobre cada uno de los ocho pedestales de pizarra sonora; afínalos con clic derecho hasta tener las notas 1 a 8; toca con clic izquierdo **1–3–7–6–5–2–4–8**. Una nota errónea reinicia la secuencia. Requiere los ocho noteblocks y el marco completo. Se abre un portal turquesa al Sift. La grieta de llegada permite volver.
+- Los bloques sobre pizarra sonora tienen ocho notas; los normales tienen 25. Un bloque encima impide sonar. Agachado + clic izquierdo rompe noteblocks; agachado permite colocar otros bloques sin afinarlos. Receta: ocho tablones alrededor de polvo de redstone. Cuatro pizarras profundas fabrican cuatro ladrillos.
+- La primera entrada nueva al Sift usa el ritual. Después funcionan las llaves y aparecen grietas naturales. Los accesos existentes de partidas anteriores y los atajos de debug se conservan. La secuencia pertenece al mod mostrado en el video, no se presenta como receta oficial de Mojang.
+- Warden: modelo propio de cuboides con cuernos y costillas luminosas, 500 puntos de vida, emergencia de tres segundos, escucha pasos y sonidos, olfato cercano, ira, ataque cercano y carga sónica. Agacharse evita ruido de pasos; tocar música o romper bloques produce vibraciones. Cuatro alertas locales de chilladores invocan uno por ciudad. No es necesario matarlo para abrir el portal. Oscuridad pulsante cerca de él en supervivencia. Huevo en Creativo y botón de invocación en debug.
+- Los cielos y nubes no se dibujan claros desde las cuevas cerradas. La luz de los pilares y pedestales permite orientarse. Música y cuerno sintetizados para Chunk, con volumen de efectos.
+- Pausa > Guía del Sift explica todos los pasos dentro del juego. Notas, estado del ritual, ciudad, cofre, Warden y progreso de generación se guardan. Acciones de notas/cuerno validadas por el anfitrión LAN. Ambos equipos deben actualizar.
+- Conserva los IDs anteriores y sus texturas, sonidos, campaña y familia. Nuevos recursos usan texturas de Minecraft Java 1.21.1, con crédito a Mojang, distribuidas en el espejo minecraft-assets. Los modelos y sonidos nuevos son de Chunk. Fuente del ritual: How To Get In The SIFT Dimension.mp4 aportado por Oliver. Fuentes de referencia: https://www.minecraft.net/en-us/article/ancient-city , https://www.minecraft.net/en-us/article/meet-warden y https://www.minecraft.net/en-us/article/block-week-note-block .
+
+
+---
+
 # Chunk 1.0.3 — The Sift (build 2026102001)
 
 Adaptación propia de Chunk inspirada en el anuncio oficial de Mojang: https://www.minecraft.net/en-us/article/mclive_sept2026_recap . Se toman como referencia las grietas, almas, Meadow y Carapace. El acceso, las recetas, criaturas y ruinas descritos abajo son contenido de Chunk.
