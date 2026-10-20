@@ -1,3 +1,24 @@
+# Chunk 1.0.3 — The Sift (build 2026102001)
+
+Adaptación propia de Chunk inspirada en el anuncio oficial de Mojang: https://www.minecraft.net/en-us/article/mclive_sept2026_recap . Se toman como referencia las grietas, almas, Meadow y Carapace. El acceso, las recetas, criaturas y ruinas descritos abajo son contenido de Chunk.
+
+- Nueva dimensión persistente: praderas rosadas, árboles blancos grandes, mesetas pálidas, cuevas, cristal de almas y agujas rojas de Carapace. Cielo turquesa y niebla propia; texturas nuevas sin sustituir las anteriores.
+- Entrada natural: busca una grieta turquesa en Overworld. Se generan por regiones de 384 bloques, delante del jugador y únicamente donde no hay ediciones suyas; tampoco reemplazan aire que hayas minado. Entra para viajar. La grieta de llegada devuelve al Overworld. No depende de un mundo nuevo.
+- Debug privado: F3 > Mundo > TP Grieta del Sift. También incluye Ir a The Sift, nuevos mobs y un surtido de sus recursos. El inventario creativo tiene pestaña The Sift.
+- Portal construido: fabrica ocho anclas con ocho adoquines alrededor de una zanita. Marco exterior vertical completo 4×5, hueco interior 2×3. Una llave se fabrica con zanita arriba, lágrima de Ghast en medio y zanita abajo, en la mesa. Usa la llave en el marco desde Overworld; consume una al abrirlo en supervivencia. Romper el marco elimina la grieta conectada. Estas recetas son propias de Chunk.
+- Cristales: pico de hierro o mejor, dejan 2–4 esencias. Cuatro esencias fabrican un cristal; un cristal en la mesa devuelve cuatro esencias. Usar esencia recupera seis puntos de vida con espera de ocho segundos por jugador; respeta el inventario y el modo Creativo.
+- Eco del Sift: criatura flotante neutral propia de Chunk. Clic derecho con mano vacía: comparte dos bayas cada minuto si tienes espacio. Las bayas alimentan seis puntos de hambre.
+- Guardián del Sift: criatura propia de Carapace, hostil; deja dos esencias al morir. Dos esencias sobre una espada de netherite fabrican una espada de almas (daño 11). Ambos mobs tienen huevos de aparición y guardado/replicación LAN.
+- Ruinas: columnas y cofres con esencias, bayas, llave y zanita. Loot persistente; no se vuelve a rellenar al cargar. Respeta Generar estructuras y las construcciones del jugador.
+- Mareas de almas: cada 120 segundos dentro del Sift se activan 25 segundos de mayor velocidad/daño de guardianes. El reloj se guarda y se sincroniza en LAN. Es una mecánica de esta adaptación.
+- Guardado y LAN: terreno del proceso de chunks y colisiones usan la misma clase; viajes y retorno mantienen objetos, familia e historia. El anfitrión decide los viajes compartidos. Invitados usan recursos mediante validación del anfitrión y conservan inventarios independientes. Mapas aceptan The Sift. Ambos equipos deben actualizar.
+- Se conservan las dimensiones anteriores, el modo Creativo, familia y relación, avances y el acceso independiente de Wither por B y por estatua. Resource packs siguen siendo experimentales con las limitaciones ya documentadas.
+
+Fuentes oficiales consultadas: anuncio anterior y https://www.minecraft.net/en-us/about-dungeons-ii . Mojang anunció su llegada a Java/Bedrock para 2027; esta versión jugable es la adaptación de Chunk.
+
+
+---
+
 # Chunk 1.0.3 — Familia y Pasar día (build 2026101904)
 
 - Debug privado (F3) > Mundo > Pasar día: avanza exactamente un día y pone el amanecer. Cuenta para confianza, amistad y relación. Solo lo puede usar el anfitrión en LAN.
