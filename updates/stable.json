@@ -3,14 +3,14 @@
   "game_id": "chunk",
   "studio": "KatStudios",
   "version": "1.0.3",
-  "build": 2026101904,
+  "build": 2026102001,
   "channel": "stable",
-  "release_url": "https://github.com/kikerayo/Chunk-KatStudios/releases/tag/v1.0.3-build2026101904",
+  "release_url": "https://github.com/kikerayo/Chunk-KatStudios/releases/tag/v1.0.3-build2026102001",
   "platforms": {
     "windows-x64": {
-      "url": "https://github.com/kikerayo/Chunk-KatStudios/releases/download/v1.0.3-build2026101904/Chunk-Windows-x64.zip",
-      "sha256": "e5d92b88a2d23ffd52f4787ac3c20684a07532a7e8a6225094a74200fa78fdb5",
-      "size": 322106823,
+      "url": "https://github.com/kikerayo/Chunk-KatStudios/releases/download/v1.0.3-build2026102001/Chunk-Windows-x64.zip",
+      "sha256": "451a2ddb09f2416fdc72a5e3fe57efc3d13f33d5b03092e880c66159db117ac0",
+      "size": 322256274,
       "archive_root": "Chunk_Publica",
       "executable": "Chunk_Publica.exe"
     }
