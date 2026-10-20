@@ -1,3 +1,14 @@
+# Chunk 1.0.3 — Familia y Pasar día (build 2026101904)
+
+- Debug privado (F3) > Mundo > Pasar día: avanza exactamente un día y pone el amanecer. Cuenta para confianza, amistad y relación. Solo lo puede usar el anfitrión en LAN.
+- Después de 7 días de relación, habla con mano vacía con tu pareja y elige Formar una familia. Es opcional. Transición negra de 3,5 segundos con sonido musical y clap-fast.mp3 proporcionado por Oliver, reproducidos juntos. Escape adelanta la transición. Los sonidos se detienen al terminar o salir.
+- El hijo es un Templario pequeño, neutral, que permanece cerca de su familia. No tiene opciones de pareja, encargos ni acceso al secreto de papa; no recibe daño de combate. Las caídas del Aether lo devuelven a su último lugar seguro.
+- Familia, fecha de relación, hijo y posición segura se guardan. Cambiar de dimensión o cargar no duplica hijos. La familia permanece en la dimensión donde se formó. Las relaciones anteriores sin fecha empiezan a contar sus 7 días cuando se carga esta actualización.
+- Incluye toda la campaña Estelar de la build anterior. No cambia texturas existentes. El MP3 original se conserva junto a su versión WAV compatible con los efectos de sonido del juego.
+
+
+---
+
 # Chunk 1.0.3 — Crónicas de los Siete (build 2026101903)
 
 - Historia completa del bibliotecario y Pausa > Historia: origen del Player, nombres de los siete, reglas alteradas, Infernales, oscuros, confianza y dimensión de papa.
