@@ -1,3 +1,13 @@
+# Chunk 1.0.3 — Sift: arte y paisaje (build 2026102003)
+
+- El arte aportado por Oliver se conserva como Sift_Arte_Referencia.webp, sin edición, y se muestra al cargar The Sift. Mantiene proporciones con bandas turquesas cuando hace falta; no recorta ni deforma la imagen.
+- Praderas del Sift con vegetación coralina rosa en relieve, transitable y determinista. Nuevas hojas blancas azuladas con cortinas colgantes; se conservan las posiciones de troncos, las alturas del terreno, los bloques editados por el jugador y las texturas originales en disco. Los tintes nuevos solo afectan a recursos del Sift.
+- Blub del Sift: adaptación propia de la criatura azul de referencia, cuerpo cúbico, orejas altas, ojos oscuros, cuatro patas y pequeños saltos. Pacífico, aparece naturalmente con población acotada, huevo en Creativo > The Sift y guardado/replicación LAN. No sustituye Ecos ni Guardianes.
+- Mantiene Ancient City, Warden, cuerno y ritual 1–3–7–6–5–2–4–8, familia, dimensiones y recursos anteriores. No incorpora el archivo de video ni datos privados a la edición pública.
+
+
+---
+
 # Chunk 1.0.3 — Ancient City y canción del Sift (build 2026102002)
 
 - Generación nueva inspirada en Caves & Cliffs: cavernas amplias, pizarra profunda, zonas de musgo, espeleotemas, redstone y montañas más pronunciadas. Se conserva el límite de 128 bloques de Chunk; no es la actualización completa ni el generador exacto de Minecraft. Solo mundos nuevos usan esta generación. Los mundos antiguos conservan su generador, incluso al cambiar de dimensión o conectarse por LAN.
